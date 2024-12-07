@@ -1,4 +1,0 @@
-Log created: 2022-01-09T13:54:37.950362400Z
-Executable: C:\Program Files (x86)\Bignox\BigNoxVM\RT\NoxVMHandle.exe
-Commandline: "C:\Program Files (x86)\Bignox\BigNoxVM\RT\NoxVMHandle.exe" --comment nox --startvm 00000000-9b5b-44e7-a162-000000000070 --vrde config --romx 0 --romy 0 --romwidth 1600 --romheight 900 --renderport nox --callbackport nox_c --rendertype opengl --hwnd 1638704 --renderpath libopenglrenderplus.dll --passthrough NOXa.dll
-000000000ca31240 <NULL>: ffffffffffffffff != 000000000000104c; cLockers=-1 cNestings=1
